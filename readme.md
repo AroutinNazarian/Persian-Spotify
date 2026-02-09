@@ -36,18 +36,14 @@ Comprehensive analysis of Persian music dataset with machine learning-based reco
 - Dataset statistics and distributions
 - Popular artists, genres, and tracks
 - User listening patterns and preferences
-- Temporal trends in music consumption
 
 **Feature Engineering:**
-- Audio feature extraction
 - Artist and genre embeddings
 - User preference vectors
 - Similarity metrics computation
 
 **Recommendation System:**
 - Content-based filtering
-- Collaborative filtering
-- Hybrid recommendation approach
 - Performance evaluation metrics
 
 ---
